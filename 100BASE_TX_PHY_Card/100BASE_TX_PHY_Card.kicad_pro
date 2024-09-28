@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PHY_PCB.kicad_pro",
+    "filename": "100BASE_TX_PHY_Card.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -597,8 +597,8 @@
       "Root"
     ],
     [
-      "54294a80-64e3-4bc3-b4c1-c21da36204c7",
-      "Untitled Sheet"
+      "e71147c6-a0f1-4483-8fca-2626129479b0",
+      "Connectors"
     ]
   ],
   "text_variables": {

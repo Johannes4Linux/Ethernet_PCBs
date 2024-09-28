@@ -8760,8 +8760,8 @@
 		)
 	)
 	(sheet
-		(at -115.57 24.13)
-		(size 111.76 72.39)
+		(at -116.84 7.62)
+		(size 113.03 76.2)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -8770,9 +8770,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "54294a80-64e3-4bc3-b4c1-c21da36204c7")
-		(property "Sheetname" "Untitled Sheet"
-			(at -115.57 23.4184 0)
+		(uuid "e71147c6-a0f1-4483-8fca-2626129479b0")
+		(property "Sheetname" "Connectors"
+			(at -116.84 6.9084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8780,8 +8780,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at -115.57 97.1046 0)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at -116.84 84.4046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8789,8 +8789,17 @@
 				(justify left top)
 			)
 		)
+		(property "Field2" ""
+			(at -116.84 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
-			(project "PHY_PCB"
+			(project "100BASE_TX_PHY_Card"
 				(path "/f8be191c-0b80-48bc-9689-d2851ae31544"
 					(page "2")
 				)

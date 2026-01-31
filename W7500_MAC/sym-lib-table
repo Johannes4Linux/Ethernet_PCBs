@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "W7500_PCB-altium-import")(type "KiCad")(uri "${KIPRJMOD}/W7500_PCB-altium-import.kicad_sym")(options "")(descr ""))
+)
